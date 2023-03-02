@@ -1,0 +1,20 @@
+{
+  "list_manager": [
+    {
+      "name": "Kazuha",
+      "address": "Teyvat",
+      "phone": "34234234",
+      "status": true,
+      "img": "file:///data/user/0/host.exp.exponent/cache/ExperienceData/%2540anonymous%252FPROJECT_THI-b8b023ef-84f2-4c16-9268-9349b4118d29/ImagePicker/236ccb6a-503d-43af-8ce6-174cfebf7ee0.jpeg",
+      "id": 1
+    },
+    {
+      "name": "kazuha",
+      "address": "Teyvat",
+      "phone": "423423",
+      "status": false,
+      "img": "file:///data/user/0/host.exp.exponent/cache/ExperienceData/%2540anonymous%252FPROJECT_THI-b8b023ef-84f2-4c16-9268-9349b4118d29/ImagePicker/373031c3-0ab4-465e-b89d-b7d657f05a09.jpeg",
+      "id": 2
+    }
+  ]
+}
